@@ -60,7 +60,7 @@ const SITE_DATA = {
         stats: [
             { number: "1923", label: "Anno Fondazione" },
             { number: "250+", label: "Soci Iscritti" },
-            { number: "50+", label: "Servizi Annuali" }
+            { number: "100+", label: "Servizi Annuali" }
         ],
 
         whatWeDo: {
